@@ -36,13 +36,18 @@ Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Li
 13.	Analyze and record your inference.
     
 ## Observation Table
-<img width="636" height="295" alt="image" src="https://github.com/user-attachments/assets/d16394c9-1df2-4ad8-b85c-92dfaa51aeee" />
+<img width="416" height="152" alt="image" src="https://github.com/user-attachments/assets/01a32f63-a562-414e-a19c-408cc66e2927" />
+
 
 ## Output graph
+<img width="756" height="445" alt="image" src="https://github.com/user-attachments/assets/b8332c18-6835-4e77-b17a-a4799a50f508" />
 
 
 ## Simulated Output waveform
+<img width="702" height="628" alt="image" src="https://github.com/user-attachments/assets/d700e1d1-b49c-42fd-820f-c586416861d7" />
+<img width="702" height="628" alt="image" src="https://github.com/user-attachments/assets/cc077b8a-eea7-409e-9720-5d3eb408b32d" />
 
 
 
 ## RESULT.
+The speed of the DC shunt motor decreases as the load torque increases, showing an approximately linear torque-speed relationship.
